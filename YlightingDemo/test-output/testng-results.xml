@@ -1,0 +1,263 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="18" passed="18" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-05-18T12:12:46Z" name="YLighting Application" finished-at="2021-05-18T12:36:52Z" duration-ms="1445311">
+    <groups>
+    </groups>
+    <test started-at="2021-05-18T12:12:46Z" name="BaseClass" finished-at="2021-05-18T12:36:52Z" duration-ms="1445311">
+      <class name="com.Ylighting.TestCases.TC_YLighting_Logo_018">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.Ylighting.TestCases.TC_YLighting_Logo_018@424e1977]" started-at="2021-05-18T12:36:22Z" name="setup" finished-at="2021-05-18T12:36:23Z" duration-ms="1312" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="Login()[pri:0, instance:com.Ylighting.TestCases.TC_YLighting_Logo_018@424e1977]" started-at="2021-05-18T12:36:23Z" name="Login" finished-at="2021-05-18T12:36:51Z" duration-ms="28013" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Login -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.Ylighting.TestCases.TC_YLighting_Logo_018@424e1977]" started-at="2021-05-18T12:36:51Z" name="tearDown" finished-at="2021-05-18T12:36:52Z" duration-ms="731" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.Ylighting.TestCases.TC_YLighting_Logo_018 -->
+      <class name="com.Ylighting.TestCases.TC_YLighting_AddCart_006">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.Ylighting.TestCases.TC_YLighting_AddCart_006@37883b97]" started-at="2021-05-18T12:16:00Z" name="setup" finished-at="2021-05-18T12:16:02Z" duration-ms="1299" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="Login()[pri:0, instance:com.Ylighting.TestCases.TC_YLighting_AddCart_006@37883b97]" started-at="2021-05-18T12:16:02Z" name="Login" finished-at="2021-05-18T12:17:55Z" duration-ms="113210" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Login -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.Ylighting.TestCases.TC_YLighting_AddCart_006@37883b97]" started-at="2021-05-18T12:17:55Z" name="tearDown" finished-at="2021-05-18T12:17:56Z" duration-ms="791" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.Ylighting.TestCases.TC_YLighting_AddCart_006 -->
+      <class name="com.Ylighting.TestCases.TC_YLighting_CreateAccount_001">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.Ylighting.TestCases.TC_YLighting_CreateAccount_001@38e79ae3]" started-at="2021-05-18T12:31:37Z" name="setup" finished-at="2021-05-18T12:31:38Z" duration-ms="1292" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="CreateAccount()[pri:0, instance:com.Ylighting.TestCases.TC_YLighting_CreateAccount_001@38e79ae3]" started-at="2021-05-18T12:31:38Z" name="CreateAccount" finished-at="2021-05-18T12:32:09Z" duration-ms="31153" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CreateAccount -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.Ylighting.TestCases.TC_YLighting_CreateAccount_001@38e79ae3]" started-at="2021-05-18T12:32:09Z" name="tearDown" finished-at="2021-05-18T12:32:10Z" duration-ms="724" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.Ylighting.TestCases.TC_YLighting_CreateAccount_001 -->
+      <class name="com.Ylighting.TestCases.TC_YLighting_Filter_005">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.Ylighting.TestCases.TC_YLighting_Filter_005@38102d01]" started-at="2021-05-18T12:14:11Z" name="setup" finished-at="2021-05-18T12:14:13Z" duration-ms="1356" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="Login()[pri:0, instance:com.Ylighting.TestCases.TC_YLighting_Filter_005@38102d01]" started-at="2021-05-18T12:14:13Z" name="Login" finished-at="2021-05-18T12:16:00Z" duration-ms="106824" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Login -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.Ylighting.TestCases.TC_YLighting_Filter_005@38102d01]" started-at="2021-05-18T12:16:00Z" name="tearDown" finished-at="2021-05-18T12:16:00Z" duration-ms="766" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.Ylighting.TestCases.TC_YLighting_Filter_005 -->
+      <class name="com.Ylighting.TestCases.TC_YLighting_ZIPCode_015">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.Ylighting.TestCases.TC_YLighting_ZIPCode_015@1dac5ef]" started-at="2021-05-18T12:25:04Z" name="setup" finished-at="2021-05-18T12:25:05Z" duration-ms="1280" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="Login()[pri:0, instance:com.Ylighting.TestCases.TC_YLighting_ZIPCode_015@1dac5ef]" started-at="2021-05-18T12:25:05Z" name="Login" finished-at="2021-05-18T12:27:47Z" duration-ms="161982" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Login -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.Ylighting.TestCases.TC_YLighting_ZIPCode_015@1dac5ef]" started-at="2021-05-18T12:27:47Z" name="tearDown" finished-at="2021-05-18T12:27:48Z" duration-ms="837" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.Ylighting.TestCases.TC_YLighting_ZIPCode_015 -->
+      <class name="com.Ylighting.TestCases.TC_YLighting_ViewCart_007">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.Ylighting.TestCases.TC_YLighting_ViewCart_007@6ab778a]" started-at="2021-05-18T12:17:56Z" name="setup" finished-at="2021-05-18T12:17:57Z" duration-ms="1298" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="Login()[pri:0, instance:com.Ylighting.TestCases.TC_YLighting_ViewCart_007@6ab778a]" started-at="2021-05-18T12:17:57Z" name="Login" finished-at="2021-05-18T12:19:53Z" duration-ms="116037" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Login -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.Ylighting.TestCases.TC_YLighting_ViewCart_007@6ab778a]" started-at="2021-05-18T12:19:53Z" name="tearDown" finished-at="2021-05-18T12:19:54Z" duration-ms="772" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.Ylighting.TestCases.TC_YLighting_ViewCart_007 -->
+      <class name="com.Ylighting.TestCases.TC_YLighting_LiveChat2_010">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.Ylighting.TestCases.TC_YLighting_LiveChat2_010@6f45df59]" started-at="2021-05-18T12:30:29Z" name="setup" finished-at="2021-05-18T12:30:30Z" duration-ms="1294" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="Login()[pri:0, instance:com.Ylighting.TestCases.TC_YLighting_LiveChat2_010@6f45df59]" started-at="2021-05-18T12:30:30Z" name="Login" finished-at="2021-05-18T12:31:36Z" duration-ms="65929" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Login -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.Ylighting.TestCases.TC_YLighting_LiveChat2_010@6f45df59]" started-at="2021-05-18T12:31:36Z" name="tearDown" finished-at="2021-05-18T12:31:37Z" duration-ms="763" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.Ylighting.TestCases.TC_YLighting_LiveChat2_010 -->
+      <class name="com.Ylighting.TestCases.TC_YLighting_Quantity_016">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.Ylighting.TestCases.TC_YLighting_Quantity_016@5c90e579]" started-at="2021-05-18T12:27:48Z" name="setup" finished-at="2021-05-18T12:27:49Z" duration-ms="1294" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="Login()[pri:0, instance:com.Ylighting.TestCases.TC_YLighting_Quantity_016@5c90e579]" started-at="2021-05-18T12:27:49Z" name="Login" finished-at="2021-05-18T12:29:27Z" duration-ms="98208" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Login -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.Ylighting.TestCases.TC_YLighting_Quantity_016@5c90e579]" started-at="2021-05-18T12:29:27Z" name="tearDown" finished-at="2021-05-18T12:29:28Z" duration-ms="862" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.Ylighting.TestCases.TC_YLighting_Quantity_016 -->
+      <class name="com.Ylighting.TestCases.TC_YLighting_Remove_011">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.Ylighting.TestCases.TC_YLighting_Remove_011@4e3958e7]" started-at="2021-05-18T12:19:54Z" name="setup" finished-at="2021-05-18T12:19:55Z" duration-ms="1284" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="Login()[pri:0, instance:com.Ylighting.TestCases.TC_YLighting_Remove_011@4e3958e7]" started-at="2021-05-18T12:19:55Z" name="Login" finished-at="2021-05-18T12:22:28Z" duration-ms="153130" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Login -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.Ylighting.TestCases.TC_YLighting_Remove_011@4e3958e7]" started-at="2021-05-18T12:22:28Z" name="tearDown" finished-at="2021-05-18T12:22:29Z" duration-ms="813" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.Ylighting.TestCases.TC_YLighting_Remove_011 -->
+      <class name="com.Ylighting.TestCases.TC_YLighting_Login_002">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.Ylighting.TestCases.TC_YLighting_Login_002@63070bab]" started-at="2021-05-18T12:32:10Z" name="setup" finished-at="2021-05-18T12:32:11Z" duration-ms="1290" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="Login()[pri:0, instance:com.Ylighting.TestCases.TC_YLighting_Login_002@63070bab]" started-at="2021-05-18T12:32:11Z" name="Login" finished-at="2021-05-18T12:32:47Z" duration-ms="35705" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Login -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.Ylighting.TestCases.TC_YLighting_Login_002@63070bab]" started-at="2021-05-18T12:32:47Z" name="tearDown" finished-at="2021-05-18T12:32:48Z" duration-ms="740" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.Ylighting.TestCases.TC_YLighting_Login_002 -->
+      <class name="com.Ylighting.TestCases.TC_YLighting_ScrollUpDown_013">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.Ylighting.TestCases.TC_YLighting_ScrollUpDown_013@2d2ffcb7]" started-at="2021-05-18T12:34:12Z" name="setup" finished-at="2021-05-18T12:34:13Z" duration-ms="1301" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="Login()[pri:0, instance:com.Ylighting.TestCases.TC_YLighting_ScrollUpDown_013@2d2ffcb7]" started-at="2021-05-18T12:34:13Z" name="Login" finished-at="2021-05-18T12:34:49Z" duration-ms="36067" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Login -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.Ylighting.TestCases.TC_YLighting_ScrollUpDown_013@2d2ffcb7]" started-at="2021-05-18T12:34:49Z" name="tearDown" finished-at="2021-05-18T12:34:50Z" duration-ms="740" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.Ylighting.TestCases.TC_YLighting_ScrollUpDown_013 -->
+      <class name="com.Ylighting.TestCases.TC_YLighting_LiveChat1_009">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.Ylighting.TestCases.TC_YLighting_LiveChat1_009@58ea606c]" started-at="2021-05-18T12:29:28Z" name="setup" finished-at="2021-05-18T12:29:29Z" duration-ms="1294" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="Login()[pri:0, instance:com.Ylighting.TestCases.TC_YLighting_LiveChat1_009@58ea606c]" started-at="2021-05-18T12:29:29Z" name="Login" finished-at="2021-05-18T12:30:28Z" duration-ms="58654" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Login -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.Ylighting.TestCases.TC_YLighting_LiveChat1_009@58ea606c]" started-at="2021-05-18T12:30:28Z" name="tearDown" finished-at="2021-05-18T12:30:29Z" duration-ms="753" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.Ylighting.TestCases.TC_YLighting_LiveChat1_009 -->
+      <class name="com.Ylighting.TestCases.TC_YLighting_Tab_004">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.Ylighting.TestCases.TC_YLighting_Tab_004@4c309d4d]" started-at="2021-05-18T12:12:47Z" name="setup" finished-at="2021-05-18T12:12:49Z" duration-ms="2331" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="Login()[pri:0, instance:com.Ylighting.TestCases.TC_YLighting_Tab_004@4c309d4d]" started-at="2021-05-18T12:12:49Z" name="Login" finished-at="2021-05-18T12:14:11Z" duration-ms="81457" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Login -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.Ylighting.TestCases.TC_YLighting_Tab_004@4c309d4d]" started-at="2021-05-18T12:14:11Z" name="tearDown" finished-at="2021-05-18T12:14:11Z" duration-ms="914" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.Ylighting.TestCases.TC_YLighting_Tab_004 -->
+      <class name="com.Ylighting.TestCases.TC_YLighting_Logout_017">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.Ylighting.TestCases.TC_YLighting_Logout_017@31f9b85e]" started-at="2021-05-18T12:35:28Z" name="setup" finished-at="2021-05-18T12:35:29Z" duration-ms="1238" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="Login()[pri:0, instance:com.Ylighting.TestCases.TC_YLighting_Logout_017@31f9b85e]" started-at="2021-05-18T12:35:29Z" name="Login" finished-at="2021-05-18T12:36:21Z" duration-ms="51506" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Login -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.Ylighting.TestCases.TC_YLighting_Logout_017@31f9b85e]" started-at="2021-05-18T12:36:21Z" name="tearDown" finished-at="2021-05-18T12:36:22Z" duration-ms="770" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.Ylighting.TestCases.TC_YLighting_Logout_017 -->
+      <class name="com.Ylighting.TestCases.TC_YLighting_Back_014">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.Ylighting.TestCases.TC_YLighting_Back_014@762ef0ea]" started-at="2021-05-18T12:34:50Z" name="setup" finished-at="2021-05-18T12:34:51Z" duration-ms="1312" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="Login()[pri:0, instance:com.Ylighting.TestCases.TC_YLighting_Back_014@762ef0ea]" started-at="2021-05-18T12:34:51Z" name="Login" finished-at="2021-05-18T12:35:27Z" duration-ms="36401" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Login -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.Ylighting.TestCases.TC_YLighting_Back_014@762ef0ea]" started-at="2021-05-18T12:35:27Z" name="tearDown" finished-at="2021-05-18T12:35:28Z" duration-ms="719" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.Ylighting.TestCases.TC_YLighting_Back_014 -->
+      <class name="com.Ylighting.TestCases.TC_YLighting_Title_003">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.Ylighting.TestCases.TC_YLighting_Title_003@68e5eea7]" started-at="2021-05-18T12:32:48Z" name="setup" finished-at="2021-05-18T12:32:49Z" duration-ms="1304" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="Login()[pri:0, instance:com.Ylighting.TestCases.TC_YLighting_Title_003@68e5eea7]" started-at="2021-05-18T12:32:49Z" name="Login" finished-at="2021-05-18T12:33:21Z" duration-ms="31681" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Login -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.Ylighting.TestCases.TC_YLighting_Title_003@68e5eea7]" started-at="2021-05-18T12:33:21Z" name="tearDown" finished-at="2021-05-18T12:33:21Z" duration-ms="751" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.Ylighting.TestCases.TC_YLighting_Title_003 -->
+      <class name="com.Ylighting.TestCases.TC_YLighting_CouponCode_012">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.Ylighting.TestCases.TC_YLighting_CouponCode_012@77f80c04]" started-at="2021-05-18T12:22:29Z" name="setup" finished-at="2021-05-18T12:22:30Z" duration-ms="1307" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="Login()[pri:0, instance:com.Ylighting.TestCases.TC_YLighting_CouponCode_012@77f80c04]" started-at="2021-05-18T12:22:30Z" name="Login" finished-at="2021-05-18T12:25:03Z" duration-ms="152354" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Login -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.Ylighting.TestCases.TC_YLighting_CouponCode_012@77f80c04]" started-at="2021-05-18T12:25:03Z" name="tearDown" finished-at="2021-05-18T12:25:04Z" duration-ms="810" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.Ylighting.TestCases.TC_YLighting_CouponCode_012 -->
+      <class name="com.Ylighting.TestCases.TC_YLighting_Search_008">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.Ylighting.TestCases.TC_YLighting_Search_008@291b4bf5]" started-at="2021-05-18T12:33:21Z" name="setup" finished-at="2021-05-18T12:33:23Z" duration-ms="1323" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="Login()[pri:0, instance:com.Ylighting.TestCases.TC_YLighting_Search_008@291b4bf5]" started-at="2021-05-18T12:33:23Z" name="Login" finished-at="2021-05-18T12:34:11Z" duration-ms="48119" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Login -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.Ylighting.TestCases.TC_YLighting_Search_008@291b4bf5]" started-at="2021-05-18T12:34:11Z" name="tearDown" finished-at="2021-05-18T12:34:12Z" duration-ms="760" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.Ylighting.TestCases.TC_YLighting_Search_008 -->
+    </test> <!-- BaseClass -->
+  </suite> <!-- YLighting Application -->
+</testng-results>

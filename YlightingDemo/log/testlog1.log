@@ -1,0 +1,178 @@
+2021-05-18 10:49:52,670 [main] INFO YLighting - Popup is closed
+2021-05-18 10:49:52,738 [main] INFO YLighting - Logo is Visible
+2021-05-18 10:55:07,952 [main] INFO YLighting - Popup is closed
+2021-05-18 10:55:17,582 [main] INFO YLighting - User is able to login the application successfully
+2021-05-18 11:40:02,139 [main] INFO YLighting - User is able to login the application successfully
+2021-05-18 11:46:05,923 [main] INFO YLighting - user is able to select the product
+2021-05-18 12:13:10,895 [main] INFO YLighting - User is able to login the application successfully
+2021-05-18 12:19:09,047 [main] INFO YLighting - User is able to login the application successfully
+2021-05-18 12:19:28,121 [main] INFO YLighting - Applied Filter
+2021-05-18 12:19:38,146 [main] INFO YLighting - user is able to select the product
+2021-05-18 12:20:43,832 [main] INFO YLighting - User is able to login the application successfully
+2021-05-18 12:21:20,222 [main] INFO YLighting - Applied Filter
+2021-05-18 12:21:43,208 [main] INFO YLighting - user is able to select the product
+2021-05-18 12:25:32,503 [main] INFO YLighting - User is able to login the application successfully
+2021-05-18 12:25:55,229 [main] INFO YLighting - Applied Filter
+2021-05-18 12:26:06,305 [main] INFO YLighting - user is able to select the product
+2021-05-18 12:26:06,512 [main] INFO YLighting - user is able to add the selected product to the cart
+2021-05-18 12:33:16,230 [main] INFO YLighting - User is able to login the application successfully
+2021-05-18 12:33:39,647 [main] INFO YLighting - Applied Filter
+2021-05-18 12:33:46,881 [main] INFO YLighting - user is able to select the product
+2021-05-18 12:33:47,108 [main] INFO YLighting - user is able to add the selected product to the cart
+2021-05-18 12:33:49,448 [main] INFO YLighting - user is able to view  the added product in the cart
+2021-05-18 12:37:36,563 [main] INFO YLighting - User is able to login the application successfully
+2021-05-18 12:38:00,877 [main] INFO YLighting - Applied Filter
+2021-05-18 12:38:06,677 [main] INFO YLighting - user is able to select the product
+2021-05-18 12:38:06,963 [main] INFO YLighting - user is able to add the selected product to the cart
+2021-05-18 12:38:15,897 [main] INFO YLighting - user is able to view  the added product in the cart
+2021-05-18 12:41:20,599 [main] INFO YLighting - User is able to login the application successfully
+2021-05-18 12:41:41,603 [main] INFO YLighting - Applied Filter
+2021-05-18 12:41:49,073 [main] INFO YLighting - user is able to select the product
+2021-05-18 12:41:49,267 [main] INFO YLighting - user is able to add the selected product to the cart
+2021-05-18 12:41:58,335 [main] INFO YLighting - user is able to view  the added product in the cart
+2021-05-18 12:49:22,656 [main] INFO YLighting - User is able to login the application successfully
+2021-05-18 12:52:05,472 [main] INFO YLighting - Applied Filter
+2021-05-18 12:52:59,935 [main] INFO YLighting - user is able to select the product
+2021-05-18 12:53:00,112 [main] INFO YLighting - user is able to add the selected product to the cart
+2021-05-18 12:53:03,551 [main] INFO YLighting - user is able to view  the added product in the cart
+2021-05-18 12:53:19,054 [main] INFO YLighting - user is able to Removed product in the cart
+2021-05-18 13:46:52,605 [main] INFO YLighting - User is able to login the application successfully
+2021-05-18 13:47:46,459 [main] INFO YLighting - Applied Filter
+2021-05-18 13:48:12,208 [main] INFO YLighting - user is able to select the product
+2021-05-18 13:48:12,376 [main] INFO YLighting - user is able to add the selected product to the cart
+2021-05-18 13:48:22,977 [main] INFO YLighting - user is able to view  the added product in the cart
+2021-05-18 13:48:23,158 [main] INFO YLighting - user is able to enter coupon code
+2021-05-18 13:48:27,044 [main] INFO YLighting - Coupon Code is Applied
+2021-05-18 13:54:01,997 [main] INFO YLighting - User is able to login the application successfully
+2021-05-18 13:54:44,557 [main] INFO YLighting - Applied Filter
+2021-05-18 13:54:52,689 [main] INFO YLighting - user is able to select the product
+2021-05-18 13:54:52,885 [main] INFO YLighting - user is able to add the selected product to the cart
+2021-05-18 13:54:59,758 [main] INFO YLighting - user is able to view  the added product in the cart
+2021-05-18 13:54:59,936 [main] INFO YLighting - user is able to enter ZIP code
+2021-05-18 13:56:25,772 [main] INFO YLighting - User is able to login the application successfully
+2021-05-18 13:56:40,823 [main] INFO YLighting - Applied Filter
+2021-05-18 13:56:45,287 [main] INFO YLighting - user is able to select the product
+2021-05-18 13:56:45,596 [main] INFO YLighting - user is able to add the selected product to the cart
+2021-05-18 13:56:50,306 [main] INFO YLighting - user is able to view  the added product in the cart
+2021-05-18 13:56:50,510 [main] INFO YLighting - user is able to enter ZIP code
+2021-05-18 13:56:50,585 [main] INFO YLighting - ZIPCode is Applied
+2021-05-18 14:02:25,000 [main] INFO YLighting - User is able to login the application successfully
+2021-05-18 14:03:01,075 [main] INFO YLighting - Applied Filter
+2021-05-18 14:03:09,815 [main] INFO YLighting - user is able to select the product
+2021-05-18 14:03:09,956 [main] INFO YLighting - user is able to add the selected product to the cart
+2021-05-18 14:03:13,579 [main] INFO YLighting - user is able to view  the added product in the cart
+2021-05-18 14:03:14,468 [main] INFO YLighting - Quantity is Applied
+2021-05-18 14:16:58,330 [main] INFO YLighting - User is able to login the application successfully
+2021-05-18 14:18:28,126 [main] INFO YLighting - user is able to select the product
+2021-05-18 14:19:26,895 [main] INFO YLighting - User is able to login the application successfully
+2021-05-18 14:20:00,040 [main] INFO YLighting - Applied Filter
+2021-05-18 14:20:16,510 [main] INFO YLighting - user is able to select the product
+2021-05-18 14:20:56,661 [main] INFO YLighting - User is able to login the application successfully
+2021-05-18 14:21:41,538 [main] INFO YLighting - Applied Filter
+2021-05-18 14:21:49,521 [main] INFO YLighting - user is able to select the product
+2021-05-18 14:21:49,720 [main] INFO YLighting - user is able to add the selected product to the cart
+2021-05-18 14:22:19,451 [main] INFO YLighting - User is able to login the application successfully
+2021-05-18 14:22:48,535 [main] INFO YLighting - Applied Filter
+2021-05-18 14:22:53,379 [main] INFO YLighting - user is able to select the product
+2021-05-18 14:22:53,689 [main] INFO YLighting - user is able to add the selected product to the cart
+2021-05-18 14:23:00,749 [main] INFO YLighting - user is able to view  the added product in the cart
+2021-05-18 14:24:17,650 [main] INFO YLighting - User is able to login the application successfully
+2021-05-18 14:25:03,956 [main] INFO YLighting - Applied Filter
+2021-05-18 14:25:09,345 [main] INFO YLighting - user is able to select the product
+2021-05-18 14:25:09,671 [main] INFO YLighting - user is able to add the selected product to the cart
+2021-05-18 14:25:16,631 [main] INFO YLighting - user is able to view  the added product in the cart
+2021-05-18 14:25:25,236 [main] INFO YLighting - user is able to Remove product in the cart
+2021-05-18 14:26:06,059 [main] INFO YLighting - User is able to login the application successfully
+2021-05-18 14:26:22,091 [main] INFO YLighting - Applied Filter
+2021-05-18 14:26:28,160 [main] INFO YLighting - user is able to select the product
+2021-05-18 14:26:28,484 [main] INFO YLighting - user is able to add the selected product to the cart
+2021-05-18 14:26:35,676 [main] INFO YLighting - user is able to view  the added product in the cart
+2021-05-18 14:26:35,885 [main] INFO YLighting - user is able to enter coupon code
+2021-05-18 14:26:39,568 [main] INFO YLighting - Coupon Code is Applied
+2021-05-18 14:27:32,566 [main] INFO YLighting - User is able to login the application successfully
+2021-05-18 14:28:43,306 [main] INFO YLighting - Applied Filter
+2021-05-18 14:28:56,208 [main] INFO YLighting - user is able to select the product
+2021-05-18 14:28:56,426 [main] INFO YLighting - user is able to add the selected product to the cart
+2021-05-18 14:29:07,631 [main] INFO YLighting - user is able to view  the added product in the cart
+2021-05-18 14:29:07,838 [main] INFO YLighting - user is able to enter ZIP code
+2021-05-18 14:29:07,954 [main] INFO YLighting - ZIPCode is Applied
+2021-05-18 14:29:51,998 [main] INFO YLighting - User is able to login the application successfully
+2021-05-18 14:30:17,687 [main] INFO YLighting - Applied Filter
+2021-05-18 14:30:23,846 [main] INFO YLighting - user is able to select the product
+2021-05-18 14:30:24,170 [main] INFO YLighting - user is able to add the selected product to the cart
+2021-05-18 14:30:35,098 [main] INFO YLighting - user is able to view  the added product in the cart
+2021-05-18 14:30:40,686 [main] INFO YLighting - Quantity is Applied
+2021-05-18 14:57:52,888 [main] INFO YLighting - Popup is closed
+2021-05-18 14:59:47,926 [main] INFO YLighting - Popup is closed
+2021-05-18 15:18:38,063 [main] INFO YLighting - Popup is closed
+2021-05-18 15:18:46,226 [main] INFO YLighting - Live Chat is clicked
+2021-05-18 15:19:04,208 [main] INFO YLighting - Live Chat Name is entered
+2021-05-18 15:19:04,405 [main] INFO YLighting - Live Chat Email is entered
+2021-05-18 15:19:12,513 [main] INFO YLighting - Live Chat submit is clicked
+2021-05-18 15:21:10,026 [main] INFO YLighting - Popup is closed
+2021-05-18 15:21:25,647 [main] INFO YLighting - Live Chat is clicked
+2021-05-18 15:25:16,541 [main] INFO YLighting - Popup is closed
+2021-05-18 15:25:26,576 [main] INFO YLighting - Live Chat is clicked
+2021-05-18 15:26:01,967 [main] INFO YLighting - Live Chat Name is entered
+2021-05-18 15:26:02,182 [main] INFO YLighting - Live Chat Email is entered
+2021-05-18 15:26:10,437 [main] INFO YLighting - Live Chat submit is clicked
+2021-05-18 15:29:58,841 [main] INFO YLighting - Popup is closed
+2021-05-18 15:30:09,118 [main] INFO YLighting - Live Chat is clicked
+2021-05-18 15:30:53,468 [main] INFO YLighting - Live Chat Name is entered
+2021-05-18 15:30:53,626 [main] INFO YLighting - Live Chat Email is entered
+2021-05-18 15:31:01,841 [main] INFO YLighting - Live Chat submit is clicked
+2021-05-18 17:43:23,755 [main] INFO YLighting - User is able to login the application successfully
+2021-05-18 17:44:10,703 [main] INFO YLighting - user is able to select the product
+2021-05-18 17:44:47,371 [main] INFO YLighting - User is able to login the application successfully
+2021-05-18 17:45:32,028 [main] INFO YLighting - Applied Filter
+2021-05-18 17:45:59,755 [main] INFO YLighting - user is able to select the product
+2021-05-18 17:46:42,653 [main] INFO YLighting - User is able to login the application successfully
+2021-05-18 17:47:43,567 [main] INFO YLighting - Applied Filter
+2021-05-18 17:47:54,944 [main] INFO YLighting - user is able to select the product
+2021-05-18 17:47:55,070 [main] INFO YLighting - user is able to add the selected product to the cart
+2021-05-18 17:48:24,660 [main] INFO YLighting - User is able to login the application successfully
+2021-05-18 17:49:20,639 [main] INFO YLighting - Applied Filter
+2021-05-18 17:49:45,821 [main] INFO YLighting - user is able to select the product
+2021-05-18 17:49:46,025 [main] INFO YLighting - user is able to add the selected product to the cart
+2021-05-18 17:49:53,326 [main] INFO YLighting - user is able to view  the added product in the cart
+2021-05-18 17:50:30,920 [main] INFO YLighting - User is able to login the application successfully
+2021-05-18 17:51:46,676 [main] INFO YLighting - Applied Filter
+2021-05-18 17:52:04,221 [main] INFO YLighting - user is able to select the product
+2021-05-18 17:52:04,364 [main] INFO YLighting - user is able to add the selected product to the cart
+2021-05-18 17:52:19,278 [main] INFO YLighting - user is able to view  the added product in the cart
+2021-05-18 17:52:28,537 [main] INFO YLighting - user is able to Remove product in the cart
+2021-05-18 17:53:30,113 [main] INFO YLighting - User is able to login the application successfully
+2021-05-18 17:54:09,581 [main] INFO YLighting - Applied Filter
+2021-05-18 17:54:38,537 [main] INFO YLighting - user is able to select the product
+2021-05-18 17:54:38,670 [main] INFO YLighting - user is able to add the selected product to the cart
+2021-05-18 17:54:55,059 [main] INFO YLighting - user is able to view  the added product in the cart
+2021-05-18 17:54:55,188 [main] INFO YLighting - user is able to enter coupon code
+2021-05-18 17:55:02,992 [main] INFO YLighting - Coupon Code is Applied
+2021-05-18 17:56:10,777 [main] INFO YLighting - User is able to login the application successfully
+2021-05-18 17:57:04,506 [main] INFO YLighting - Applied Filter
+2021-05-18 17:57:33,974 [main] INFO YLighting - user is able to select the product
+2021-05-18 17:57:34,199 [main] INFO YLighting - user is able to add the selected product to the cart
+2021-05-18 17:57:46,779 [main] INFO YLighting - user is able to view  the added product in the cart
+2021-05-18 17:57:46,981 [main] INFO YLighting - user is able to enter ZIP code
+2021-05-18 17:57:47,063 [main] INFO YLighting - ZIPCode is Applied
+2021-05-18 17:58:24,861 [main] INFO YLighting - User is able to login the application successfully
+2021-05-18 17:58:59,468 [main] INFO YLighting - Applied Filter
+2021-05-18 17:59:12,848 [main] INFO YLighting - user is able to select the product
+2021-05-18 17:59:13,042 [main] INFO YLighting - user is able to add the selected product to the cart
+2021-05-18 17:59:22,066 [main] INFO YLighting - user is able to view  the added product in the cart
+2021-05-18 17:59:22,257 [main] INFO YLighting - Quantity is Applied
+2021-05-18 17:59:55,883 [main] INFO YLighting - Popup is closed
+2021-05-18 18:00:03,965 [main] INFO YLighting - Live Chat is clicked
+2021-05-18 18:00:19,567 [main] INFO YLighting - Live Chat Name is entered
+2021-05-18 18:00:19,671 [main] INFO YLighting - Live Chat Email is entered
+2021-05-18 18:00:27,794 [main] INFO YLighting - Live Chat submit is clicked
+2021-05-18 18:01:02,328 [main] INFO YLighting - Popup is closed
+2021-05-18 18:01:10,401 [main] INFO YLighting - Live Chat is clicked
+2021-05-18 18:01:27,573 [main] INFO YLighting - Live Chat Name is entered
+2021-05-18 18:01:27,654 [main] INFO YLighting - Live Chat Email is entered
+2021-05-18 18:01:35,771 [main] INFO YLighting - Live Chat submit is clicked
+2021-05-18 18:02:37,383 [main] INFO YLighting - Popup is closed
+2021-05-18 18:02:46,920 [main] INFO YLighting - User is able to login the application successfully
+2021-05-18 18:03:20,638 [main] INFO YLighting - User is able to login the application successfully
+2021-05-18 18:06:50,659 [main] INFO YLighting - Popup is closed
+2021-05-18 18:06:50,707 [main] INFO YLighting - Logo is Visible

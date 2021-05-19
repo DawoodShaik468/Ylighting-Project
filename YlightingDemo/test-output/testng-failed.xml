@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [YLighting Application]" guice-stage="DEVELOPMENT">
+  <listeners>
+    <listener class-name="com.Ylighting.Utilities.Reporting"/>
+  </listeners>
+  <test thread-count="5" name="BaseClass(failed)">
+    <classes>
+      <class name="com.Ylighting.TestCases.TC_YLighting_AddCart_006">
+        <methods>
+          <include name="setup"/>
+          <include name="Login"/>
+          <include name="tearDown"/>
+        </methods>
+      </class> <!-- com.Ylighting.TestCases.TC_YLighting_AddCart_006 -->
+      <class name="com.Ylighting.TestCases.TC_YLighting_Remove_011">
+        <methods>
+          <include name="setup"/>
+          <include name="tearDown"/>
+          <include name="Login"/>
+        </methods>
+      </class> <!-- com.Ylighting.TestCases.TC_YLighting_Remove_011 -->
+      <class name="com.Ylighting.TestCases.TC_YLighting_Filter_005">
+        <methods>
+          <include name="Login"/>
+          <include name="setup"/>
+          <include name="tearDown"/>
+        </methods>
+      </class> <!-- com.Ylighting.TestCases.TC_YLighting_Filter_005 -->
+      <class name="com.Ylighting.TestCases.TC_YLighting_Quantity_016">
+        <methods>
+          <include name="setup"/>
+          <include name="Login"/>
+          <include name="tearDown"/>
+        </methods>
+      </class> <!-- com.Ylighting.TestCases.TC_YLighting_Quantity_016 -->
+      <class name="com.Ylighting.TestCases.TC_YLighting_ZIPCode_015">
+        <methods>
+          <include name="tearDown"/>
+          <include name="Login"/>
+          <include name="setup"/>
+        </methods>
+      </class> <!-- com.Ylighting.TestCases.TC_YLighting_ZIPCode_015 -->
+      <class name="com.Ylighting.TestCases.TC_YLighting_LiveChat1_009">
+        <methods>
+          <include name="Login"/>
+          <include name="tearDown"/>
+          <include name="setup"/>
+        </methods>
+      </class> <!-- com.Ylighting.TestCases.TC_YLighting_LiveChat1_009 -->
+      <class name="com.Ylighting.TestCases.TC_YLighting_CouponCode_012">
+        <methods>
+          <include name="tearDown"/>
+          <include name="setup"/>
+          <include name="Login"/>
+        </methods>
+      </class> <!-- com.Ylighting.TestCases.TC_YLighting_CouponCode_012 -->
+      <class name="com.Ylighting.TestCases.TC_YLighting_LiveChat2_010">
+        <methods>
+          <include name="setup"/>
+          <include name="tearDown"/>
+          <include name="Login"/>
+        </methods>
+      </class> <!-- com.Ylighting.TestCases.TC_YLighting_LiveChat2_010 -->
+      <class name="com.Ylighting.TestCases.TC_YLighting_Tab_004">
+        <methods>
+          <include name="setup"/>
+          <include name="Login"/>
+          <include name="tearDown"/>
+        </methods>
+      </class> <!-- com.Ylighting.TestCases.TC_YLighting_Tab_004 -->
+      <class name="com.Ylighting.TestCases.TC_YLighting_ViewCart_007">
+        <methods>
+          <include name="tearDown"/>
+          <include name="setup"/>
+          <include name="Login"/>
+        </methods>
+      </class> <!-- com.Ylighting.TestCases.TC_YLighting_ViewCart_007 -->
+    </classes>
+  </test> <!-- BaseClass(failed) -->
+</suite> <!-- Failed suite [YLighting Application] -->

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="YLighting Application">
+
+<listeners>
+		<listener class-name="com.Ylighting.Utilities.Reporting" />
+	</listeners>
+
+  <test name="BaseClass" >
+
+    
+           
+  <classes>
+  
+      <class name="com.Ylighting.TestCases.TC_YLighting_Tab_004"/>
+      <class name="com.Ylighting.TestCases.TC_YLighting_Filter_005"/>
+      <class name="com.Ylighting.TestCases.TC_YLighting_AddCart_006"/>
+      <class name="com.Ylighting.TestCases.TC_YLighting_ViewCart_007"/>
+      <class name="com.Ylighting.TestCases.TC_YLighting_Remove_011"/>
+      <class name="com.Ylighting.TestCases.TC_YLighting_CouponCode_012"/>
+      <class name="com.Ylighting.TestCases.TC_YLighting_ZIPCode_015"/>
+      <class name="com.Ylighting.TestCases.TC_YLighting_Quantity_016"/>
+      <class name="com.Ylighting.TestCases.TC_YLighting_LiveChat1_009"/>
+      <class name="com.Ylighting.TestCases.TC_YLighting_LiveChat2_010"/>
+      
+       <class name="com.Ylighting.TestCases.TC_YLighting_CreateAccount_001"/>
+       
+      <class name="com.Ylighting.TestCases.TC_YLighting_Login_002"/>
+      
+      <class name="com.Ylighting.TestCases.TC_YLighting_Title_003"/>
+      
+      <class name="com.Ylighting.TestCases.TC_YLighting_Search_008"/>
+      
+      <class name="com.Ylighting.TestCases.TC_YLighting_ScrollUpDown_013"/> 
+      
+      <class name="com.Ylighting.TestCases.TC_YLighting_Back_014"/>
+
+ <class name="com.Ylighting.TestCases.TC_YLighting_Logout_017"/>
+<class name="com.Ylighting.TestCases.TC_YLighting_Logo_018"/>
+      
+      
+     
+                 
+    </classes>
+  </test>
+</suite> 
